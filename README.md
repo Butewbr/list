@@ -1,6 +1,2 @@
-# list
-연결 리스트 (C++)
-
-이게 내 연결 리스트의 코드 - UFSC 자료 구조 2021년!
-
-기대하고 많이 사랑해주세요!
+# Linked List
+A linked list implementation in C++ for a University Project.
